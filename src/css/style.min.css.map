@@ -2,8 +2,8 @@
     "version": 3,
     "mappings": "AAAA,AAAA,EAAE,AAAC,CACD,KAAK,CAAE,GAAG,CAAG",
     "sources": [
-        "../SASS/Style.sass"
+        "../sass/style.sass"
     ],
     "names": [],
-    "file": "Style.min.css"
+    "file": "style.min.css"
 }
